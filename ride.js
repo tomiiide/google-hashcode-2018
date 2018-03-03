@@ -20,7 +20,7 @@ const e_high_bonus_answer = 'e_high_bonus_answer.in';
 
 
 const questions = [
-  example_file,b_file_path, c_no_hurry,d_metropolis,e_high_bonus
+  example_file_path,b_file_path, c_no_hurry,d_metropolis,e_high_bonus
 ];
 
 const answers = [
