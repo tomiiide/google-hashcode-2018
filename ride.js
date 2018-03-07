@@ -75,7 +75,7 @@ function calculate_distance(start_point, end_point){
 
 function assignRidesToVehicles(rides,vehicles){
   let assignment = vehicles;
-  // let _rides = orderRidesByDistance(rides);
+  rides = orderRidesByDistance(rides);
   
   for(i = 0; i < rides.length; i++){
     //assign rides
